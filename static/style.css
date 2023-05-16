@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 90px;
+}
+  
+h1 {
+    color: #333;
+}
+  
+.form-container {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+.form-group {
+    margin-bottom: 20px;
+  }
+  
+.form-group label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+  
+.form-group input[type="text"],
+.form-group textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+}
+  
+.form-group .submit-btn {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+  
